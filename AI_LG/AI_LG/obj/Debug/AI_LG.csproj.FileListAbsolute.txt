@@ -1,0 +1,14 @@
+D:\Users\m\source\repos\AI_LG\AI_LG\bin\Debug\AI_LG.exe.config
+D:\Users\m\source\repos\AI_LG\AI_LG\bin\Debug\AI_LG.exe
+D:\Users\m\source\repos\AI_LG\AI_LG\bin\Debug\AI_LG.pdb
+D:\Users\m\source\repos\AI_LG\AI_LG\obj\Debug\AI_LG.csprojAssemblyReference.cache
+D:\Users\m\source\repos\AI_LG\AI_LG\obj\Debug\AI_LG.csproj.CoreCompileInputs.cache
+D:\Users\m\source\repos\AI_LG\AI_LG\obj\Debug\AI_LG.exe
+D:\Users\m\source\repos\AI_LG\AI_LG\obj\Debug\AI_LG.pdb
+D:\_Upstep\AI_LG\AI_LG\bin\Debug\AI_LG.exe.config
+D:\_Upstep\AI_LG\AI_LG\bin\Debug\AI_LG.exe
+D:\_Upstep\AI_LG\AI_LG\bin\Debug\AI_LG.pdb
+D:\_Upstep\AI_LG\AI_LG\obj\Debug\AI_LG.csprojAssemblyReference.cache
+D:\_Upstep\AI_LG\AI_LG\obj\Debug\AI_LG.csproj.CoreCompileInputs.cache
+D:\_Upstep\AI_LG\AI_LG\obj\Debug\AI_LG.exe
+D:\_Upstep\AI_LG\AI_LG\obj\Debug\AI_LG.pdb
